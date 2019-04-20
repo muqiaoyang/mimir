@@ -11,10 +11,6 @@ setup(
     name='mimir',
     version='0.1.dev1',
     description='A mini-framework for logging JSON-compatible objects',
-    long_description=readme(),
-    url='https://github.com/bartvm/mimir',
-    author=u'Bart van Merriënboer',
-    author_email='bart.vanmerrienboer@gmail.com',
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
